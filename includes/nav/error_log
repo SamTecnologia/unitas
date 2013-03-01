@@ -1,0 +1,37 @@
+[22-Oct-2012 14:16:41] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_AZ.inc.php on line 38
+[23-Oct-2012 09:05:11] PHP Warning:  Invalid argument supplied for foreach() in /home/samtec/public_html/unitas/includes/nav/NAV_Category.inc.php on line 4
+[24-Oct-2012 17:41:16] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/samtec/public_html/unitas/includes/nav/NAV_CategoryPrevNext.inc.php on line 17
+[24-Oct-2012 17:41:16] PHP Warning:  Invalid argument supplied for foreach() in /home/samtec/public_html/unitas/includes/nav/NAV_CategoryPrevNext.inc.php on line 26
+[24-Oct-2012 17:41:16] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_CategoryPrevNext.inc.php on line 52
+[24-Oct-2012 23:40:14] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[25-Oct-2012 06:03:21] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.inc.php on line 46
+[25-Oct-2012 11:19:48] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Statistics.inc.php on line 4
+[25-Oct-2012 17:13:07] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Text_Navigation.inc.php on line 9
+[25-Oct-2012 18:02:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/”imagick.so
+
+extension=ixed.5.2.lin
+zend_extension=/usr/local/Zend/lib/Optimizer-3.3.9/php-5.2.x/ZendOptimizer.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/”imagick.so
+
+extension=ixed.5.2.lin
+zend_extension=/usr/local/Zend/lib/Optimizer-3.3.9/php-5.2.x/ZendOptimizer.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Oct-2012 18:02:27] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/samtec/public_html/unitas/includes/nav/NAV_Text_Statistics.inc.php on line 6
+[13-Jan-2013 06:29:58] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[13-Jan-2013 16:07:51] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_AZ.inc.php on line 38
+[13-Jan-2013 17:18:40] PHP Warning:  Invalid argument supplied for foreach() in /home/samtec/public_html/unitas/includes/nav/NAV_Category.inc.php on line 4
+[13-Jan-2013 18:30:21] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/samtec/public_html/unitas/includes/nav/NAV_CategoryPrevNext.inc.php on line 17
+[13-Jan-2013 18:30:21] PHP Warning:  Invalid argument supplied for foreach() in /home/samtec/public_html/unitas/includes/nav/NAV_CategoryPrevNext.inc.php on line 26
+[13-Jan-2013 18:30:21] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_CategoryPrevNext.inc.php on line 52
+[13-Jan-2013 19:41:44] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Text_Statistics.inc.php on line 6
+[14-Jan-2013 16:19:01] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Statistics.inc.php on line 4
+[14-Jan-2013 17:01:13] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Text_Navigation.inc.php on line 9
+[20-Jan-2013 18:59:15] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.inc.php on line 46
+[22-Jan-2013 09:18:04] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_AZ.inc.php on line 38
+[02-Feb-2013 21:18:20] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_AZ.inc.php on line 38
+[11-Feb-2013 08:01:03] PHP Fatal error:  Call to undefined function  nav_getresource() in /home/samtec/public_html/unitas/includes/nav/NAV_AZ.inc.php on line 38
+[11-Feb-2013 14:31:44] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[11-Feb-2013 23:28:33] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[11-Feb-2013 23:57:18] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[12-Feb-2013 08:19:01] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[12-Feb-2013 11:17:20] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[26-Feb-2013 19:30:24] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17
+[01-Mar-2013 11:22:14] PHP Fatal error:  Class 'NAV_Regular' not found in /home/samtec/public_html/unitas/includes/nav/NAV_Page_Navigation.class.php on line 17

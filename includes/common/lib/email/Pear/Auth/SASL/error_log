@@ -1,0 +1,17 @@
+[29-Oct-2012 21:18:06] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Login.php on line 51
+[29-Oct-2012 23:04:28] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 48
+[29-Oct-2012 23:40:52] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 48
+[30-Oct-2012 00:01:55] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 48
+[30-Oct-2012 00:21:46] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 48
+[19-Feb-2013 05:33:33] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 48
+[19-Feb-2013 23:10:32] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 48
+[20-Feb-2013 06:06:01] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 48
+[23-Feb-2013 00:58:03] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 48
+[23-Feb-2013 17:13:58] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 48
+[23-Feb-2013 21:17:32] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 48
+[24-Feb-2013 05:09:59] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 48
+[25-Feb-2013 19:39:50] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 48
+[26-Feb-2013 03:34:44] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 48
+[27-Feb-2013 04:34:56] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 48
+[27-Feb-2013 13:34:20] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 48
+[28-Feb-2013 00:30:58] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 48

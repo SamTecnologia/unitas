@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_diz_mes_atual" value="name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:conta_id_e;datatype:int,name:MONTH( unts_item_mov.item_data );datatype:int,name:YEAR( unts_item_mov.item_data );datatype:int,name:SUM( unts_item_mov.item_valor );datatype:real" />
+	<infoitem key="UD_ofe_mes_atual" value="name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:conta_id_e;datatype:int,name:MONTH( unts_item_mov.item_data );datatype:int,name:YEAR( unts_item_mov.item_data );datatype:int,name:SUM( unts_item_mov.item_valor );datatype:real" />
+	<infoitem key="UD_diz_mes_anterior" value="name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:conta_id_e;datatype:int,name:MONTH( unts_item_mov.item_data );datatype:int,name:YEAR( unts_item_mov.item_data );datatype:int,name:SUM( unts_item_mov.item_valor );datatype:real" />
+	<infoitem key="UD_ofe_mes_anterior" value="name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:conta_id_e;datatype:int,name:MONTH( unts_item_mov.item_data );datatype:int,name:YEAR( unts_item_mov.item_data );datatype:int,name:SUM( unts_item_mov.item_valor );datatype:real" />
+</info>

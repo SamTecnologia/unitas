@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsunts_saldo_ini" value="name:movim_id;datatype:int,name:conta_id;datatype:int,name:saldo_valor;datatype:int,name:saldo_ativo;datatype:int,name:saldo_id;datatype:int" />
+</info>

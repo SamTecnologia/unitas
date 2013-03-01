@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_tesouraria" value="name:permi_id;datatype:int,name:tesra_id;datatype:int,name:user_id;datatype:int,name:permi_data_ini;datatype:date,name:permi_data_fim;datatype:date,name:permi_ativa;datatype:string,name:user_id;datatype:int,name:user_login;datatype:string,name:user_senha;datatype:string,name:user_nome;datatype:string,name:user_telefone;datatype:string,name:user_email;datatype:string,name:user_ativo;datatype:string,name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:comun_id;datatype:int,name:tesra_ativo;datatype:string" />
+</info>

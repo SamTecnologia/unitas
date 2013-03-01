@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsunts_comunidade1" value="name:comun_razao_social;datatype:string,name:comun_telefone;datatype:string,name:comun_email;datatype:string,name:comun_ativo;datatype:string,name:comun_id;datatype:int" />
+</info>

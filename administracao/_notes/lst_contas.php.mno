@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:comun_razao_social;datatype:string,name:comun_id;datatype:int" />
+	<infoitem key="UD_rsunts_contas1" value="name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:string,name:conta_ativa;datatype:string,name:conta_id;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:comun_razao_social;datatype:string,name:comun_id;datatype:int" />
+</info>

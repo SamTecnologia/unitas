@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_periodo" value="name:perio_descricao;datatype:string,name:perio_id;datatype:int,name:perio_mes;datatype:string,name:perio_ano;datatype:int,name:perio_ativo;datatype:string" />
+	<infoitem key="UD_rsunts_movimento" value="name:tesra_id;datatype:int,name:perio_id;datatype:int,name:movim_data_ini;datatype:int,name:movim_data_fim;datatype:int,name:movim_ativo;datatype:int,name:movim_id;datatype:int" />
+	<infoitem key="UD_rs_tesouraria" value="name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:comun_id;datatype:int,name:tesra_ativo;datatype:string" />
+	<infoitem key="UD_rs_periodo1" value="name:perio_id;datatype:int,name:perio_mes;datatype:string,name:perio_ano;datatype:int,name:perio_ativo;datatype:string" />
+	<infoitem key="UD_rs_movimento" value="name:perio_descricao;datatype:string,name:movim_id;datatype:int,name:tesra_id;datatype:int,name:perio_id;datatype:int,name:movim_data_ini;datatype:date,name:movim_data_fim;datatype:date,name:movim_ativo;datatype:string" />
+</info>

@@ -1,0 +1,56 @@
+[16-Jun-2012 09:35:28] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'unitas'@'nr35.local.nrserver.net' (using password: YES) in /home2/samtec/public_html/unitas/Connections/unitas.php on line 9
+[16-Jun-2012 09:35:28] PHP Fatal error:  Access denied for user 'unitas'@'nr35.local.nrserver.net' (using password: YES) in /home2/samtec/public_html/unitas/Connections/unitas.php on line 9
+[09-Jul-2012 11:36:34] PHP Fatal error:  Call to undefined function  virtual() in /home2/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[09-Jul-2012 11:36:36] PHP Fatal error:  Call to undefined function  virtual() in /home2/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[09-Jul-2012 11:37:17] PHP Fatal error:  Call to undefined function  virtual() in /home2/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[10-Jul-2012 09:11:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/samtec/public_html/unitas/administracao/forgot_password.php:19) in /home2/samtec/public_html/unitas/includes/common/KT_functions.inc.php on line 464
+[02-Aug-2012 10:48:04] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 10:48:15] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `iso-8859-2' not supported, assuming iso-8859-1 in /home2/samtec/public_html/unitas/administracao/frm_periodo_editar.php on line 98
+[02-Aug-2012 10:48:15] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `iso-8859-2' not supported, assuming iso-8859-1 in /home2/samtec/public_html/unitas/administracao/frm_periodo_editar.php on line 103
+[02-Aug-2012 10:48:15] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `iso-8859-2' not supported, assuming iso-8859-1 in /home2/samtec/public_html/unitas/administracao/frm_periodo_editar.php on line 104
+[02-Aug-2012 11:23:20] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:23:24] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:23:34] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `iso-8859-2' not supported, assuming iso-8859-1 in /home2/samtec/public_html/unitas/administracao/frm_periodo_editar.php on line 98
+[02-Aug-2012 11:23:34] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `iso-8859-2' not supported, assuming iso-8859-1 in /home2/samtec/public_html/unitas/administracao/frm_periodo_editar.php on line 103
+[02-Aug-2012 11:23:34] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `iso-8859-2' not supported, assuming iso-8859-1 in /home2/samtec/public_html/unitas/administracao/frm_periodo_editar.php on line 104
+[02-Aug-2012 11:25:18] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:26:41] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:26:45] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:27:13] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:27:33] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:28:04] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:28:19] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[02-Aug-2012 11:28:33] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[06-Sep-2012 15:07:01] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[07-Sep-2012 09:09:05] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home2/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[07-Sep-2012 09:12:22] PHP Fatal error:  Call to undefined function  virtual() in /home2/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[28-Oct-2012 19:47:58] PHP Fatal error:  Call to undefined function  virtual() in /home/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[05-Nov-2012 15:06:51] PHP Fatal error:  Call to undefined function  virtual() in /home/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[05-Nov-2012 21:49:13] PHP Fatal error:  Call to undefined function  virtual() in /home/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[05-Nov-2012 22:05:06] PHP Fatal error:  Call to undefined function  virtual() in /home/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[05-Nov-2012 22:05:20] PHP Fatal error:  Call to undefined function  virtual() in /home/samtec/public_html/unitas/administracao/lst_permissoes.php on line 1
+[05-Nov-2012 22:06:43] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 11:12:02] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 11:12:15] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 11:12:41] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 11:12:55] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:55:27] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Too many connections in /home/samtec/public_html/unitas/Connections/unitas.php on line 9
+[14-Jan-2013 12:55:27] PHP Fatal error:  Too many connections in /home/samtec/public_html/unitas/Connections/unitas.php on line 9
+[14-Jan-2013 12:56:51] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:56:57] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:57:08] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:57:14] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:57:21] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:57:34] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[14-Jan-2013 12:57:39] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:32:06] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:32:24] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:32:37] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:32:52] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:33:08] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:33:23] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:33:39] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[19-Feb-2013 11:33:55] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[22-Feb-2013 15:58:14] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[22-Feb-2013 15:58:21] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147
+[22-Feb-2013 15:58:29] PHP Warning:  mysql_free_result(): 4 is not a valid MySQL result resource in /home/samtec/public_html/unitas/administracao/lst_periodo.php on line 147

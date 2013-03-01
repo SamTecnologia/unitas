@@ -1,0 +1,16 @@
+[26-Oct-2012 23:34:57] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/null.php on line 28
+[27-Oct-2012 01:05:01] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/sendmail.php on line 25
+[27-Oct-2012 02:12:15] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/smtp.php on line 26
+[27-Oct-2012 05:17:51] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/mail.php on line 26
+[11-Feb-2013 05:08:10] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/sendmail.php on line 25
+[11-Feb-2013 12:11:49] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/null.php on line 28
+[11-Feb-2013 15:29:21] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/mail.php on line 26
+[11-Feb-2013 22:11:38] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/smtp.php on line 26
+[17-Feb-2013 06:35:45] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/sendmail.php on line 25
+[19-Feb-2013 19:48:40] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/mail.php on line 26
+[21-Feb-2013 07:10:04] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/sendmail.php on line 25
+[22-Feb-2013 01:00:21] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/mail.php on line 26
+[22-Feb-2013 07:58:10] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/smtp.php on line 26
+[23-Feb-2013 13:24:40] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/null.php on line 28
+[25-Feb-2013 11:46:26] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/smtp.php on line 26
+[25-Feb-2013 15:34:15] PHP Fatal error:  Class 'Mail' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Mail/null.php on line 28

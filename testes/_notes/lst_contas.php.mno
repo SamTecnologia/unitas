@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_contas" value="name:conta_id;datatype:int,name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:int,name:conta_ativa;datatype:string" />
+</info>

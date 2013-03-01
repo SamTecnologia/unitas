@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_lista" value="name:lst_id;datatype:int,name:lst_codigo;datatype:int,name:lst_nome;datatype:string,name:lst_foto;datatype:string" />
+	<infoitem key="UD_rsunts_lista" value="name:lst_codigo;datatype:int,name:lst_nome;datatype:int,name:lst_foto;datatype:int,name:lst_id;datatype:int" />
+</info>

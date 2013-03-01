@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_Session1" value="kt_login_id" />
+	<infoitem key="MM_Session_Count" value="4" />
+	<infoitem key="MM_Session2" value="kt_login_user" />
+	<infoitem key="MM_Form_Count" value="1" />
+	<infoitem key="MM_URL1" value="tesouraria" />
+	<infoitem key="MM_URL_Count" value="7" />
+	<infoitem key="MM_URL2" value="movimento" />
+	<infoitem key="MM_Form1" value="movimento" />
+	<infoitem key="MM_Session3" value="kt_login_level" />
+	<infoitem key="MM_Session4" value="kt_user_nivel" />
+	<infoitem key="MM_URL3" value="item_id" />
+	<infoitem key="MM_URL4" value="item" />
+	<infoitem key="MM_URL5" value="conta" />
+	<infoitem key="MM_URL6" value="saldo_id" />
+	<infoitem key="PageAccessControl" value="P" />
+	<infoitem key="MM_URL7" value="lst_id" />
+</info>
