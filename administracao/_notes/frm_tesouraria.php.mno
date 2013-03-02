@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_Recordset1" value="name:comun_sigla;datatype:string,name:comun_id;datatype:int" />
-	<infoitem key="UD_rsunts_tesouraria" value="name:tesra_descricao;datatype:int,name:comun_id;datatype:int,name:tesra_ativo;datatype:int,name:tesra_id;datatype:int" />
-</info>

@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_tesouraria" value="name:tesra_id;datatype:int,name:tesra_descricao;datatype:string,name:comun_id;datatype:int,name:tesra_ativo;datatype:string" />
-	<infoitem key="UD_rs_conta" value="name:conta_id;datatype:int,name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:int,name:conta_ativa;datatype:string" />
-</info>

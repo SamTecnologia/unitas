@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rsunts_periodo1" value="name:perio_id;datatype:int,name:perio_mes;datatype:string,name:perio_ano;datatype:int,name:perio_ativo;datatype:string" />
-	<infoitem key="UD_rs_periodo" value="name:perio_id;datatype:int,name:perio_mes;datatype:string,name:perio_ano;datatype:int,name:perio_ativo;datatype:string" />
-</info>

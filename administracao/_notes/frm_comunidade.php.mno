@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_municipio" value="name:munic_id;datatype:int,name:munic_descricao;datatype:string" />
-	<infoitem key="UD_rs_estado" value="name:uf_id;datatype:int,name:uf_descricao;datatype:string,name:uf_ativo;datatype:string" />
-	<infoitem key="UD_rsunts_comunidade" value="name:comun_sigla;datatype:int,name:comun_razao_social;datatype:int,name:comun_icone;datatype:int,name:comun_logradouro;datatype:int,name:comun_numero;datatype:int,name:comun_complemento;datatype:int,name:comun_bairro;datatype:int,name:comun_municipio;datatype:int,name:comun_estado;datatype:int,name:comun_cep;datatype:int,name:comun_telefone;datatype:int,name:comun_fax;datatype:int,name:comun_email;datatype:int,name:comun_site;datatype:int,name:comun_ativo;datatype:int,name:comun_id;datatype:int" />
-</info>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_itens" value="name:item_id;datatype:int,name:movim_id;datatype:int,name:item_data;datatype:date,name:conta_id_e;datatype:int,name:conta_id_s;datatype:int,name:item_historico;datatype:blob,name:item_documento;datatype:string,name:item_valor;datatype:real,name:item_efetivado;datatype:string,name:item_ativo;datatype:string,name:tesra_id;datatype:int" />
-	<infoitem key="UD_rs_saldoinicial" value="name:saldo_id;datatype:int,name:movim_id;datatype:int,name:conta_id;datatype:int,name:saldo_valor;datatype:real,name:saldo_ativo;datatype:string,name:conta_id;datatype:int,name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:int,name:conta_ativa;datatype:string" />
-	<infoitem key="UD_rs_tot_saidas" value="name:saldo_id;datatype:int,name:movim_id;datatype:int,name:conta_id;datatype:int,name:saldo_valor;datatype:real,name:saldo_ativo;datatype:string,name:SUM( unts_item_mov.item_valor );datatype:real" />
-	<infoitem key="UD_rs_tot_entradas" value="name:saldo_id;datatype:int,name:movim_id;datatype:int,name:conta_id;datatype:int,name:saldo_valor;datatype:real,name:saldo_ativo;datatype:string,name:SUM( unts_item_mov.item_valor );datatype:real" />
-</info>

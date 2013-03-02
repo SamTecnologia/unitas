@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_conta_e" value="name:conta_id;datatype:int,name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:int,name:conta_ativa;datatype:string" />
-	<infoitem key="UD_rs_conta_s" value="name:conta_id;datatype:int,name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:int,name:conta_ativa;datatype:string" />
-	<infoitem key="UD_rs_conta_e1" value="name:conta_id;datatype:int,name:conta_tipo;datatype:string,name:conta_descricao;datatype:string,name:conta_visibilidade;datatype:int,name:conta_ativa;datatype:string" />
-	<infoitem key="UD_rsunts_item_mov" value="name:movim_id;datatype:int,name:item_data;datatype:int,name:conta_id_e;datatype:int,name:conta_id_s;datatype:int,name:item_historico;datatype:int,name:item_documento;datatype:int,name:item_valor;datatype:int,name:item_efetivado;datatype:int,name:item_ativo;datatype:int,name:item_id;datatype:int" />
-</info>

@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_movimento" value="name:perio_descricao;datatype:string,name:movim_id;datatype:int,name:tesra_id;datatype:int,name:perio_id;datatype:int,name:movim_data_ini;datatype:date,name:movim_data_fim;datatype:date,name:movim_ativo;datatype:string" />
-	<infoitem key="UD_rs_usuario" value="name:user_id;datatype:int,name:user_login;datatype:string,name:user_senha;datatype:string,name:user_nome;datatype:string,name:user_telefone;datatype:string,name:user_email;datatype:string,name:user_nivel;datatype:string,name:user_ativo;datatype:string" />
-</info>

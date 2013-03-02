@@ -1,4 +1,0 @@
-[27-Oct-2012 04:10:04] PHP Fatal error:  Class 'PEAR' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Net/Socket.php on line 35
-[10-Feb-2013 23:08:18] PHP Fatal error:  Class 'PEAR' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Net/Socket.php on line 35
-[12-Feb-2013 17:47:54] PHP Fatal error:  Class 'PEAR' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Net/Socket.php on line 35
-[15-Feb-2013 05:58:34] PHP Fatal error:  Class 'PEAR' not found in /home/samtec/public_html/unitas/includes/common/lib/email/Pear/Net/Socket.php on line 35
