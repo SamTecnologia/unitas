@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+table{
+	border:1px dotted #0099FF;
+}
+th{
+	background:#FFC;
+	border:1px dotted #0099ff;
+}
+td{
+	border:1px dotted #0000FF;
+}
+
+#menu{
+	margin:0;
+	padding:0;	
+}
+#menu a{
+	display:block;	
+	line-height:30px;
+}
+#menu ul{
+	float:left;
+	margin:0;
+	padding:0;
+/*	line-height:30px;	*/
+}
+#menu li{
+	list-style:none;
+	float:left;
+/*	height:1%;	*/
+	margin:0;
+}
+#menu li ul{
+	position:absolute;
+	visibility:hidden;
+}
+#menu li ul li{
+	float:none;
+	white-space:normal;
+	display:inline;
+}
+#menu li ul li ul{
+	position:absolute;
+	left:100%;
+	top:0;	
+}
+#menu li:hover ul, #menu li.over ul{
+	visibility:visible;	
+}
+#menu li:hover ul ul, #menu li.over ul ul{
+	visibility:hidden;
+}
+#menu ul ul li:hover ul, #menu ul ul li.over ul{
+	visibility:visible;
+}
+/*visual*/
+#menu{
+	background:#D2332F;
+	height: 30px;
+	margin:0;
+	padding-left:35%;
+	text-align:center;	
+}
+#menu a{
+	font-weight:bold;
+	text-decoration:none;
+	color:#fff;
+	padding:0 10px;
+/*	line-height:25px;*/
+}
+#menu a:hover{
+	text-decoration:none;
+	background:#235A9B;
+	color:#fff;
+}
+#menu ul li ul{
+	background:#D2332F;
+}
+/* FINAL ESTILO MENU*/
